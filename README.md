@@ -1,3 +1,5 @@
-### Welcome to my GitHub!
+# Welcome to Bruhris' Github Page!
 
-Still new here but I'll get the hang of things
+Ola homies. Just a high School student aspiring to explore the field of computer science in the future!
+
+Feel free to check out any of my repositories on my profile.
