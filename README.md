@@ -2,7 +2,7 @@
 Hi there! My name is Boris and I am a student from Alberta aspiring to specialize in the field of computer science. I am currently studying at the University of British Columbia in the class of 2027. Feel free to check out any of the repositories on my profile.
 
 ## 🌐 Socials:
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/bruhris) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/boriswangcs) 
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/boriscodess) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/boriswangcs) 
 
 # 💻 Tech Stack:
 [![Languages and Tools](https://skillicons.dev/icons?i=cpp,express,firebase,java,js,react,mongodb,mysql,nodejs,py,supabase,tailwind,ts)]()
