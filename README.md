@@ -1,8 +1,13 @@
 # 💫 About Me:
-Hi there! My name is Boris and I'm an aspiring software developer from Alberta. I am currently studying at the University of British Columbia in the class of 2028. Feel free to check out any of the repositories on my profile and follow me on **[LinkedIn](https://linkedin.com/in/boriswangcs)!**
+Hi there! My name is Boris and I'm an aspiring software developer from Alberta. I am currently studying at the University of British Columbia in the class of 2028. Feel free to check out any of the repositories on my profile!
 
+# 📸 Socials:
+- [LinkedIn](https://www.linkedin.com/in/boriswangcs/)
+- [Personal Website](https://www.boriswang.live/)
+- [TikTok](https://www.tiktok.com/@boriscodes)
+  
 # 💻 Tech Stack:
-[![Languages and Tools](https://skillicons.dev/icons?i=nextjs,ts,postgres,express,cpp,fastapi,java,js,react,mongodb,nodejs,py,sklearn,supabase,tailwind)]()
+[![Languages and Tools](https://skillicons.dev/icons?i=js,ts,py,java,react,tailwind,nodejs,express,fastapi,postgres,mongodb,supabase,sklearn)]()
 
 # 📊 GitHub Stats
 ![bcw117's Stats](https://github-readme-stats.vercel.app/api?username=bcw117&theme=react&show_icons=true&hide_border=false&count_private=false)
