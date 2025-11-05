@@ -7,7 +7,7 @@ Hi there! My name is Boris and I'm an aspiring software developer from Alberta. 
 - [TikTok](https://www.tiktok.com/@boriscodes)
   
 # 💻 Tech Stack:
-[![Languages and Tools](https://skillicons.dev/icons?i=js,ts,py,java,react,tailwind,nodejs,express,fastapi,postgres,mongodb,supabase,sklearn)]()
+[![Languages and Tools](https://skillicons.dev/icons?i=cpp,js,ts,py,java,react,go,nodejs,fastapi,nextjs,postgres,mongodb,docker)]()
 
 # 📊 GitHub Stats
 ![bcw117's Stats](https://github-readme-stats.vercel.app/api?username=bcw117&theme=react&show_icons=true&hide_border=false&count_private=false)
