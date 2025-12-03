@@ -7,12 +7,12 @@ Hi there! My name is Boris and I'm an aspiring software developer from Alberta. 
 - [TikTok](https://www.tiktok.com/@boriscodes)
   
 # 💻 Tech Stack:
-[![Languages and Tools](https://skillicons.dev/icons?i=cpp,js,ts,py,java,react,go,nodejs,fastapi,nextjs,postgres,mongodb,docker)]()
+### Languages
+[![Languages](https://skillicons.dev/icons?i=js,ts,c,cpp,py,go)]()
+### Developer Tools
+[![Frameworks/Libraries](https://skillicons.dev/icons?i=git,docker,postman)]()
+### Frameworks/Libraries
+[![Frameworks/Libraries](https://skillicons.dev/icons?i=nodejs,deno,fastapi,postgres,mongodb,aws,supabase,react,nextjs,kafka)]()
 
 # 📊 GitHub Stats
-![bcw117's Stats](https://github-readme-stats.vercel.app/api?username=bcw117&theme=react&show_icons=true&hide_border=false&count_private=false)
-
-
-[![](https://visitcount.itsvg.in/api?id=bcw117&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Boris' Github Stats](https://github-readme-stats.vercel.app/api?username=bcw117&show_icons=true)
