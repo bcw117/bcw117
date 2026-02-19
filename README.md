@@ -16,4 +16,4 @@ Ola! My name is Boris and I'm an aspiring software developer from Edmonton, AB ð
 [![Frameworks/Libraries](https://skillicons.dev/icons?i=nodejs,deno,fastapi,postgres,mongodb,aws,supabase,react,nextjs,kafka)]()
 
 # ðŸ“Š GitHub Stats
-![bcw117's Top Languages](https://github-readme-stats-tawny-seven-56.vercel.app/api/top-langs/?username=bcw117&theme=nord&show_icons=true&hide_border=true&layout=compact&custom_title=My%20Most%20Used%20Languages&size_weight=0.5&count_weight=0.5&langs_count=4&hide=jupyter%20notebook,racket,css,mdx,html,processing,tex)
+![bcw117's Top Languages](https://github-readme-stats-tawny-seven-56.vercel.app/api/top-langs/?username=bcw117&theme=nord&show_icons=true&hide_border=true&layout=compact&custom_title=My%20Most%20Used%20Languages&size_weight=0.5&count_weight=0.5&langs_count=4&hide=jupyter%20notebook,racket,css,mdx,html,processing)
