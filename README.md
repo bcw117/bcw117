@@ -5,7 +5,7 @@ Hola! My name is Boris and I'm an aspiring software developer from Edmonton, AB 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/boriscodess)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boriswangcs/)
 [![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@boriscodes)
-[![Personal Website](https://img.shields.io/badge/MY_EPIC_WEBSITE-9e7bd1?style=for-the-badge&logo=About.me&logoColor=white)](https://www.boriswang.live/)
+[![Personal Website](https://img.shields.io/badge/MY_EPIC_WEBSITE-9e7bd1?style=for-the-badge&logo=About.me&logoColor=white)](https://www.boriswang.com/)
   
 # 💻 Tech Stack:
 ### Languages
