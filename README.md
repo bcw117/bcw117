@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hola! My name is Boris and I'm a software developer from Edmonton, AB 🇨🇦. Currently studying at the University of British Columbia. Feel free to reach out and check out any of the repositories on my profile!
+Hello! My name is Boris and I'm a software developer from Edmonton, AB 🇨🇦. Currently studying at the University of British Columbia. Feel free to reach out and check out any of the repositories on my profile!
 
 # 📸 Socials:
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/boriscodess)
